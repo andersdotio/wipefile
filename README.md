@@ -44,6 +44,10 @@ This approach creates **forensic confusion** - recovered data fragments appear t
 
 This should prevent any forensic undelete or data recovery, and will hopefully make the process much more time consuming, than just overwriting with random data.
 
+## Download
+
+Pre-compiled binaries available: [Download wipefile here](https://github.com/andersdotio/wipefile/releases/tag/v1.0)
+
 ## Build
 
 ```bash
